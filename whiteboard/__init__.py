@@ -1,0 +1,1 @@
+from .whiteboard import app

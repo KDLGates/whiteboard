@@ -1,0 +1,17 @@
+MANIFEST.in
+README.txt
+whiteboard/__init__.py
+whiteboard/schema.sql
+whiteboard/whiteboard.py
+whiteboard.egg-info/PKG-INFO
+whiteboard.egg-info/SOURCES.txt
+whiteboard.egg-info/dependency_links.txt
+whiteboard.egg-info/requires.txt
+whiteboard.egg-info/top_level.txt
+whiteboard/static/style.css
+whiteboard/templates/board.html
+whiteboard/templates/landing.html
+whiteboard/templates/layout.html
+whiteboard/templates/login.html
+whiteboard/templates/register.html
+whiteboard/templates/show_entries.html
